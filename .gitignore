@@ -1,6 +1,7 @@
 // build products
-*.pdf
+pdf
 *.log
 *.aux
 *.out
+*.mcp
 .DS_Store
