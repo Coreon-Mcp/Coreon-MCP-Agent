@@ -1,6 +1,5 @@
 ## Coreon-MCP-Execution-Engine
 ![demo](./assets/gif/Index.gif)
-
 ## 🔀 MCP Support Branch — coreon-mcp
 
 We have created a dedicated branch to track our x402 integration progress.  
