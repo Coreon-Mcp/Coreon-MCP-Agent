@@ -25,7 +25,6 @@ the mcp payment signal protocol on solana.
 https://github.com/Coreon-Mcp/Coreon-MCP-Execution-Engine
 
 Features include:
-- x402 payment signal detection 
 - Multi-chain support (solana)
 - PaymentRequired state management
 
