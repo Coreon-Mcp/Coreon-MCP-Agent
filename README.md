@@ -3,18 +3,18 @@
 ## 🔀 MCP Support Branch — coreon-mcp
 
 We have created a dedicated branch to track our x402 integration progress.  
-This branch includes the latest README focused on x402 signal support and Agent payment workflows.
+This branch includes the latest README focused on signal support and Agent payment workflows.
 
 🔗 Branch link:  
 https://github.com/Coreon-Mcp/Coreon-MCP-Execution-Engine
 
 📌 Highlights:
 - ✅ First MCP Agent Execution Engine on **Solana**
-- ✅ Detects HTTP 402 signals from paid APIs
+- ✅ Detects HTTP  signals from paid APIs
 - ✅ Suspends execution & informs user of required payment
 - 🚧 Autonomous Agent Payments — coming soon
 
-If you're interested in x402 + Agent Economy development, please follow this branch for more updates. 
+If you're interested in Agent Economy development, please follow this branch for more updates. 
 
 ## 📢 Latest Update
 ### 2026-01 - mcp Support Branch Released
@@ -25,7 +25,7 @@ the mcp payment signal protocol on solana.
 https://github.com/Coreon-Mcp/Coreon-MCP-Execution-Engine
 
 Features include:
-- x402 payment signal detection (HTTP 402)
+- x402 payment signal detection 
 - Multi-chain support (solana)
 - PaymentRequired state management
 
