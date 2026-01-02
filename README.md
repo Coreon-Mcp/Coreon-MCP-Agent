@@ -12,7 +12,7 @@ This branch includes the latest README focused on x402 signal support and Agent 
 https://github.com/Coreon-Mcp/Coreon-MCP-Execution-Engine
 
 📌 Highlights:
-- ✅ First x402-ready Agent Execution Engine on **Solana**
+- ✅ First MCP Agent Execution Engine on **Solana**
 - ✅ Detects HTTP 402 signals from paid APIs
 - ✅ Suspends execution & informs user of required payment
 - 🚧 Autonomous Agent Payments — coming soon
