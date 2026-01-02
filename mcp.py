@@ -32,3 +32,4 @@ class Settings:
         self.WALLET_ADDRESS = os.getenv("WALLET_ADDRESS", "")
 
 settings = Settings()
+
