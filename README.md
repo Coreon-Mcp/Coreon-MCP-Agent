@@ -1,5 +1,4 @@
 ## Coreon-MCP-Execution-Engine
-**Welcome to Coreon MCP Execution Engine**
 
 ![demo](./assets/gif/Index.gif)
 
