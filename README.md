@@ -9,10 +9,9 @@ We have created a dedicated branch to track our x402 integration progress.
 This branch includes the latest README focused on x402 signal support and Agent payment workflows.
 
 🔗 Branch link:  
-https://github.com/CoreonMcp/Coreon-MCP-Execution-Engine/tree/coreon-mcp-x402
-
+https://github.com/Coreon-Mcp/Coreon-MCP-Execution-Engine
 📌 Highlights:
-- ✅ First x402-ready Agent Execution Engine on **BNB Chain**
+- ✅ First x402-ready Agent Execution Engine on **Solana**
 - ✅ Detects HTTP 402 signals from paid APIs
 - ✅ Suspends execution & informs user of required payment
 - 🚧 Autonomous Agent Payments — coming soon
@@ -23,13 +22,13 @@ If you're interested in x402 + Agent Economy development, please follow this bra
 ### 2025-10 - x402 Support Branch Released
 
 A new branch `coreon-mcp-x402` is available for tracking our integration with  
-the x402 payment signal protocol on BNB Chain.
+the x402 payment signal protocol on solana.
 
-🔗 https://github.com/CoreonMcp/Coreon-MCP-Execution-Engine/tree/coreon-mcp-x402
+https://github.com/Coreon-Mcp/Coreon-MCP-Execution-Engine
 
 Features include:
 - x402 payment signal detection (HTTP 402)
-- Multi-chain support (Base / BNB Chain)
+- Multi-chain support (solana)
 - PaymentRequired state management
 
 *(Autonomous agent payment coming soon 🚀)*
@@ -242,10 +241,10 @@ docker run --rm -it --env-file .env -p 8080:8080 coreonmcp/coreon-mcp-execution-
 docker run --rm -it --env-file .env coreonmcp/coreon-mcp-execution-engine start telegram-bot
 ````
 
-## 🔗 BNB Chain Integration
+## 🔗 Solana Integration
 
-Coreon MCP Execution Engine is designed as the AI Execution Layer for Web3, with a strong focus on the BNB Chain ecosystem (BSC / BNB Smart Chain).
-> Current support: Query balances, token metadata, DeFi data, and contract calls on BNB Smart Chain (BSC).
+Coreon MCP Execution Engine is designed as the AI Execution Layer for Web3, with a strong focus on the Solana ecosystem .
+> Current support: Query balances, token metadata, DeFi data, and contract calls on BNB Smart Chain (Solana).
 >
 > Mid-term roadmap: Natural-language swaps on PancakeSwap, AI wallet assistants, and on-chain security monitoring for BNB users.
 > 
