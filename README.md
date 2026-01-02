@@ -2,7 +2,7 @@
 ![demo](./assets/gif/Index.gif)
 ## 🔀 MCP Support Branch — coreon-mcp
 
-We have created a dedicated branch to track our x402 integration progress.  
+We have created a dedicated branch to track our integration progress.  
 This branch includes the latest README focused on signal support and Agent payment workflows.
 
 🔗 Branch link:  
