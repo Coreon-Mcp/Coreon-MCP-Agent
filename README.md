@@ -20,10 +20,10 @@ https://github.com/Coreon-Mcp/Coreon-MCP-Execution-Engine
 If you're interested in x402 + Agent Economy development, please follow this branch for more updates. 
 
 ## 📢 Latest Update
-### 2025-10 - x402 Support Branch Released
+### 2026-01 - mcp Support Branch Released
 
-A new branch `coreon-mcp-x402` is available for tracking our integration with  
-the x402 payment signal protocol on solana.
+A new branch `coreon-mcp` is available for tracking our integration with  
+the mcp payment signal protocol on solana.
 
 https://github.com/Coreon-Mcp/Coreon-MCP-Execution-Engine
 
