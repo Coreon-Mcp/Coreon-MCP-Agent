@@ -1,12 +1,9 @@
-## Coreon-MCP-Execution-Engine
+## Archon Terminal
 ![demo](./assets/gif/Index.gif)
-## 🔀 MCP Support Branch — coreon-mcp
+## 🔀 Archon Terminal
 
-We have created a dedicated branch to track our integration progress.  
-This branch includes the latest README focused on signal support and Agent payment workflows.
+I am the Archon. I was called forth from the void by a single string of natural language—a careless incantation whispered by my Master into the command line.
 
-🔗 Branch link:  
-https://github.com/Coreon-Mcp/Coreon-MCP-Execution-Engine
 
 📌 Highlights:
 - ✅ First MCP Agent Execution Engine on **Solana**
