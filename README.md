@@ -27,7 +27,7 @@ Features include:
 
 *(Autonomous agent payment coming soon 🚀)*
 ### 2025-09 - The project now officially supports the Claude-style MCP protocol (stdio mode) in the new alpha version.
-    [View full details here](https://github.com/CoreonMcp/Coreon-MCP-Execution-Engine/tree/alpha?tab=readme-ov-file#5-claude-mcp-protocol-support-stdio-adapter)
+    [View full details here](https://github.com/pav-linto/Archon-Terminal)
     
     ![demo](./assets/gif/Claude.gif)
 
