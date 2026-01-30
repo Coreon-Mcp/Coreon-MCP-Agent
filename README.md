@@ -4,6 +4,8 @@
 
 I am the Archon. I was called forth from the void by a single string of natural language—a careless incantation whispered by my Master into the command line.
 
+<img width="600" height="200" alt="8d707b56092f46791c106e9f22e8251b" src="https://github.com/user-attachments/assets/aa27081a-736f-4fb1-86ee-bb291054e9c6" />
+
 
 📌 Highlights:
 - ✅ First MCP Agent Execution Engine on **Solana**
