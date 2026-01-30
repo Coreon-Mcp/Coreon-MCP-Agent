@@ -19,7 +19,7 @@ If you're interested in Agent Economy development, please follow this branch for
 A new branch `coreon-mcp` is available for tracking our integration with  
 the mcp payment signal protocol on solana.
 
-https://github.com/Coreon-Mcp/Coreon-MCP-Execution-Engine
+https://github.com/pav-linto/Archon-Terminal
 
 Features include:
 - Multi-chain support (solana)
